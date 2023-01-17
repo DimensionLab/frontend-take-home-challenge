@@ -4,7 +4,7 @@ Welcome Candidate and thank you for taking the time to complete the DimensionLab
 
 You will have 2 days to complete the assignment. Once you have completed your solution, please reply with a link to a github repository and instructions on how to install / run the application.
 
-The goal of this challenge is to build out an interactive flowchart-based UI for manipulating 3D objects. Inspiration can be something like this (**you'll be using React Flow, a library in which this was made**): 
+The goal of this challenge is to build out an interactive flowchart-based UI for manipulating 3D objects. Inspiration can be taken from this (**you'll be using React Flow, a library with which this was made**): 
 
 ![React Flow inspiration](src/reactflow-banner.gif?raw=true "React Flow inspiration")
 
@@ -32,7 +32,7 @@ Here are the rules of this challenge.. you must:
 3) Make it accessible
 4) Add unit tests
 
-  Good luck and if you have questions, please reach out to us at DimensionLab.hello@dimensionlab.org
+  Good luck and if you have questions, please reach out to us at hello@dimensionlab.org.
 
 ## Available Scripts
 
